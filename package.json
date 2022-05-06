@@ -1,7 +1,7 @@
 {
-  "name": "100daychallenge",
+  "name": "100-day-code-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my portfolio of work completed during the 100 day of code challenge as described here https://www.100daysofcode.com/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
