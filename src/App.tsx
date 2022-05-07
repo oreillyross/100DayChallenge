@@ -1,4 +1,6 @@
 
+import * as React from 'react';
+
 export default function App() {
   return (
     <div className="flex max-h-64 justify-center h-screen bg-gradient-to-tr from-slate-100 to-slate-300">
