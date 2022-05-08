@@ -14,3 +14,11 @@ Today's Progress: Add Typescript
 Thoughts: It was rather tricky to add typescript after bootstrapping, it required a number of stackoverflow searches for different config options to add to sconfig.js and package.json to silence a number of eslint errors
 
 Link to work: see App.js for now
+
+### Day 2: May 08, 2022
+
+Today's Progress: Play with Tailwind to style a navbar
+
+Thoughts: Tailwind is great for styling, using the emmet abbreviations makes it a breeze, albeit slightly cryptic at first. And remember to store your images in public folder not src, otherwise it doesn't render correctly.
+
+Link to work: WIP, coming soon
