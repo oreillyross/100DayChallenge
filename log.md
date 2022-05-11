@@ -40,4 +40,11 @@ Link to work: https://leetcode.com/problems/maximal-square/
 
 Link to work: This repo
 
+### Day 5: May 11, 2022
+
+**Today's Progress:** Tailwind utility classes, using flex layouts
+
+**Thoughts:** Flex layout is great for single dimensional styling, and using tailwind you get specatular layouts for relatively little effort.
+
+Link to work: This repo
 
