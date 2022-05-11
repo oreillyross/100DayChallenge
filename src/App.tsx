@@ -75,9 +75,31 @@ export default function App() {
       {/* Hero section end */}
       {/* features section start*/}
       <section id="features">
-        <div className="container flex flex-col px-4 mx-auto mt-10 space-y-12 md:space-y-0">
-          <div>{/* motivation summary */}</div>
-          <div>{/* key skills */}</div>
+        <div className="container flex flex-col md:flex-row px-4 mx-auto mt-10 space-y-12 md:space-y-0">
+          <div className="flex flex-col space-y-12 md:w-1/2">
+            {/* motivation summary */}
+            <h2 className="max-w-md text-4xl text-center md:text-left font-bold">
+              What drives me!
+            </h2>
+            <p className="max-w-sm text-center md:text-left text-slate-800">
+              I am strongly driven by TK ideas which suggest that we live in an
+              infinitely bountiful world. Mention Peter Thiel etc,
+            </p>
+          </div>
+          <div className="flex flex-col space-y-12 md:w-1/2">
+            {/* key skills */}
+            <div className="flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row">
+              <div className="rounded-l-full bg-red-300 md:bg-transparent" >
+
+                <div className="flex items-center space-x-2">
+                  <div className="px-4 py-2 text-white bg-red-500 md:py-1 rounded-full">
+                    01
+                  </div>
+                  <div className="h3 text-base font-bold">Constantly exploring functional programming paradigms</div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
       {/* features section end */}
