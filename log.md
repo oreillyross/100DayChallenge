@@ -48,3 +48,11 @@ Link to work: This repo
 
 Link to work: This repo
 
+### Day 6: May 12, 2022
+
+**Today's Progress:** Worked on Brainy notes today, using Formik and Yup for form validation
+
+**Thoughts:** Using Formik is a great abstraction for form creation in React.
+
+Link to work: Brainy notes, watch this space
+
