@@ -56,3 +56,11 @@ Link to work: This repo
 
 Link to work: Brainy notes, watch this space
 
+### Day 7: May 13, 2022
+
+**Today's Progress:** Migrated from Hasura to Supabase in my notetaking app, remarkebly easy. Sorry Hasura I will be back, just a little detour
+
+**Thoughts:** Hasura feels overly complex, for my needs I think supabase might be a better fit
+
+Link to work: Brainy notes, watch this space
+
