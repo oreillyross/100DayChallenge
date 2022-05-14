@@ -66,8 +66,8 @@ Link to work: Brainy notes, watch this space
 
 ### Day 8: May 14, 2022
 
-**Today's Progress:** Migrated from Hasura to Supabase in my notetaking app, remarkebly easy. Sorry Hasura I will be back, just a little detour
+**Today's Progress:** Add React-router to 100 Days app. Next thing will be migrating to Remix, 💯 ⚛️	
 
-**Thoughts:** Hasura feels overly complex, for my needs I think supabase might be a better fit
+**Thoughts:** React router has kept up with progress, I like it
 
 Link to work: Brainy notes, watch this space
