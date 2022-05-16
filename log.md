@@ -71,3 +71,19 @@ Link to work: Brainy notes, watch this space
 **Thoughts:** React router has kept up with progress, I like it
 
 Link to work: Brainy notes, watch this space
+
+### Day 9: May 15, 2022
+
+**Today's Progress:** Struggled today, although I forced myself to read about Typescript not to lose momentum, but not my most productive learning day.
+
+**Thoughts:** Dips like this I suppose are expected
+
+Link to work: nothing to see her folks...
+
+### Day 10: May 16, 2022
+
+**Today's Progress:** Algo day today, worked through the largest subset problem on AlgoMonster.
+
+**Thoughts:** This is a problem most easily solved using the bottom-up Dynamic programming approach.
+
+Link to work: https://github.com/oreillyross/coding-patterns/blob/main/README.md#largest-divisible-subset
