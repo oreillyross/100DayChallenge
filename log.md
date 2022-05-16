@@ -71,3 +71,11 @@ Link to work: Brainy notes, watch this space
 **Thoughts:** React router has kept up with progress, I like it
 
 Link to work: Brainy notes, watch this space
+
+### Day 9: May 15, 2022
+
+**Today's Progress:** Struggled to hit the one hour mark, studied Typescript...	
+
+**Thoughts:** I can se why they call it 100 day challenge, I feel there will be dips like this in completing challenges, which is why its called 100 day challenge. Onwards and upwards.
+
+Link to work: Nothing to see here folks
