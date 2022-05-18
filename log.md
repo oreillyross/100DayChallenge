@@ -79,3 +79,28 @@ Link to work: Brainy notes, watch this space
 **Thoughts:** I can se why they call it 100 day challenge, I feel there will be dips like this in completing challenges, which is why its called 100 day challenge. Onwards and upwards.
 
 Link to work: Nothing to see here folks
+
+### Day 10: May 16, 2022
+
+**Today's Progress:** Algos all the way, maximum subsquare problem	
+
+**Thoughts:** It's tough
+
+Link to work: Nothing to see here folks
+
+### Day 11: May 17, 2022
+
+**Today's Progress:** Algos all the way, dp (dfs + memoization)	
+
+**Thoughts:** It's tough
+
+Link to work: Nothing to see here folks
+
+### Day 12: May 18, 2022
+
+**Today's Progress:** Scrolling through the Algomonster selection of coding challenges from different FAANG companies	
+
+**Thoughts:** It's tough
+
+Link to work: Nothing to see here folks
+
