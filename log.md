@@ -104,3 +104,12 @@ Link to work: Nothing to see here folks
 
 Link to work: Nothing to see here folks
 
+### Day 13: May 19, 2022
+
+**Today's Progress:** Working on Brainynotes again, using useRef with useLayoutEffect very effect[ive] lol.
+
+**Thoughts:** Having component abstractions sometimes interferes with the React core logic, not passing props through properly
+
+Link to work: Brainy notes
+
+
