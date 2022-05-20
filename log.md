@@ -104,12 +104,28 @@ Link to work: Nothing to see here folks
 
 Link to work: Nothing to see here folks
 
-### Day 13: May 19, 2022
+### Day 13: May 18, 2022
+
+**Today's Progress:** Scrolling through the Algomonster selection of coding challenges from different FAANG companies	
+
+**Thoughts:** It's tough
+
+Link to work: Nothing to see here folks
+
+### Day 14: May 19, 2022
 
 **Today's Progress:** Working on Brainynotes again, using useRef with useLayoutEffect very effect[ive] lol.
 
 **Thoughts:** Having component abstractions sometimes interferes with the React core logic, not passing props through properly
 
 Link to work: Brainy notes
+
+### Day 15: May 20, 2022
+
+**Today's Progress:** Took some time learning basics of NextJS, Dynamic routes, and Image tags working on my Leeny LMS project
+
+**Thoughts:** Dynamic routing is a powerful abstraction for serving CMS content easily
+
+Link to work: Leeny LMS
 
 
