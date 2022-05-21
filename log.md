@@ -128,4 +128,13 @@ Link to work: Brainy notes
 
 Link to work: Leeny LMS
 
+### Day 16: May 21, 2022
+
+**Today's Progress:** Back to algos, picking Python as language of choice for solving algo/DS type challenges, its such a nice succint language.
+
+**Thoughts:** Having two languages under ones belt is a good thing, covers much wider territory in terms of what one can achieve.
+
+Link to work: Algomonster website
+
+
 
