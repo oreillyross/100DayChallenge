@@ -136,5 +136,13 @@ Link to work: Leeny LMS
 
 Link to work: Algomonster website
 
+### Day 17 May 22, 2022
+
+**Today's Progress:** Back to basics, Python basics to be exact, solving algo/DS problems feels more intuitive. 
+
+**Thoughts:** Having two languages under ones belt is a good thing, covers much wider territory in terms of what one can achieve.
+
+Link to work: Egghead.io python course
+
 
 
