@@ -144,5 +144,11 @@ Link to work: Algomonster website
 
 Link to work: Egghead.io python course
 
+### Day 18 May 23, 2022
 
+**Today's Progress:** Re-doing the Structy course, this time using python, one realises how compact Python is, 😏. https://www.structy.net/
+
+**Thoughts:** I think I will use python as my language of choice for coding interviews, and javascript for purely technical frontend discussions
+
+Link to work: https://www.structy.net/
 
