@@ -152,3 +152,11 @@ Link to work: Egghead.io python course
 
 Link to work: https://www.structy.net/
 
+### Day 19 May 24, 2022
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+Link to work: 
+
