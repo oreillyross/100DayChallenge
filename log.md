@@ -154,9 +154,9 @@ Link to work: https://www.structy.net/
 
 ### Day 19 May 24, 2022
 
-**Today's Progress:** 
+**Today's Progress:** Working through structy problems using Python is really refreshing. Python is such a nice succinct language for comprehension of intent.
 
-**Thoughts:** 
+**Thoughts:** Python for coding interview and js/ts for web apps
 
 Link to work: 
 
