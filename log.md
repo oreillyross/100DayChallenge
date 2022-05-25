@@ -160,3 +160,12 @@ Link to work: https://www.structy.net/
 
 Link to work: 
 
+### Day 20 May 25, 2022
+
+**Today's Progress:** Linked list time. First learn how to code up a standard Linked list traversal Algo used for many Linked list type coding questions
+
+**Thoughts:** not sure where I might use a Linked list in the wild tbh
+
+Link to work: coding patterns
+
+
