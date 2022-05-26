@@ -168,4 +168,13 @@ Link to work:
 
 Link to work: coding patterns
 
+### Day 21 May 26, 2022
+
+**Today's Progress:** Reading the typescript handbook, for second time. Amazing how little details suddenly click. 
+
+**Thoughts:** This typescript business is great  
+
+Link to work: nothing to see
+
+
 
