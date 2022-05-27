@@ -176,5 +176,12 @@ Link to work: coding patterns
 
 Link to work: nothing to see
 
+Day 22 May 27, 2022
+Today's Progress: Rediscovered Redux, and Redux toolkit, Wow, and Learn with Jason and Mark Erikson just such a nice video tutorial.
+
+Thoughts: Redux is made so much simpler with the smart design choices and abstractions made by the maintainers 
+
+Link to work: nothing to see
+
 
 
