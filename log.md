@@ -192,3 +192,11 @@ Link to work: nothing to see
 
 Link to work: nothing to see
 
+**Day 24 May 29, 2022**
+
+**Today's Progress:** Redux is the way. Today reading the redux docs again. Amazing how re-reading a topic little details suddenly click .
+
+**Thoughts:** Need to see what the opposite of "Teach it to me like I am Five", but the studying approach 
+
+Link to work: 
+
