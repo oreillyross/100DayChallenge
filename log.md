@@ -198,5 +198,11 @@ Link to work: nothing to see
 
 **Thoughts:** Need to see what the opposite of "Teach it to me like I am Five", but the studying approach 
 
-Link to work: 
+Link to work:
+
+ **Day 25 30**
+
+**Today's Progress:** Today i learnt you can avoid the ../../components spiel by adding the baseUrl key with value of " ./src" to tsconfig.json, even in a JS project. Little things, but little things add up. Thanks
+**Thoughts:** keep these stored somewhere, brainy notes maybe...
+Link to work:
 
