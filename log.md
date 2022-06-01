@@ -206,3 +206,13 @@ Link to work:
 **Thoughts:** keep these stored somewhere, brainy notes maybe...
 Link to work:
 
+TODO = YOU HAVE Day 26 on your laptop. 🩹
+ 
+ **Day 27 01 June 2022 **
+
+**Today's Progress:** Creating fake apis using fakerjs and redux to test my note taking app locally. I see fakerjs has some interesting suggested domain names.
+
+**Thoughts:** Make sure you document how setup a boiler plate for generating fake data in form of lists etc.
+
+Link to work:
+
