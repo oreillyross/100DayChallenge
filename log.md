@@ -176,7 +176,8 @@ Link to work: coding patterns
 
 Link to work: nothing to see
 
-**Day 22 May 27, 2022**
+### Day 22 May 27, 2022
+
 **Today's Progress:** Rediscovered Redux, and Redux toolkit, Wow, and Learn with Jason and Mark Erikson just such a nice video tutorial.
 
 **Thoughts:** Redux is made so much simpler with the smart design choices and abstractions made by the maintainers 
@@ -184,7 +185,7 @@ Link to work: nothing to see
 Link to work: nothing to see
 
 
-**Day 23 May 28, 2022**
+### Day 23 May 28, 2022
 
 **Today's Progress:** Sticking with implementing Redux in my notes app, amazing how sensible the redux toolkit defaults are
 
@@ -192,7 +193,7 @@ Link to work: nothing to see
 
 Link to work: nothing to see
 
-**Day 24 May 29, 2022**
+### Day 24 May 29, 2022
 
 **Today's Progress:** Redux is the way. Today reading the redux docs again. Amazing how re-reading a topic little details suddenly click .
 
@@ -200,14 +201,14 @@ Link to work: nothing to see
 
 Link to work:
 
-**Day 25 30 May 2022**
+### Day 25 30 May 2022
 
 **Today's Progress:** Today i learnt you can avoid the ../../components spiel by adding the baseUrl key with value of " ./src" to tsconfig.json, even in a JS project. Little things, but little things add up. Thanks
 **Thoughts:** keep these stored somewhere, brainy notes maybe...
 
 Link to work:
 
-**Day 26 31 May 2022**
+### Day 26 31 May 2022
 
 **Today's Progress:** More Redux
 
@@ -215,7 +216,7 @@ Link to work:
 
 Link to work:
  
- **Day 27 01 June 2022**
+ ### Day 27 01 June 2022
 
 **Today's Progress:** Creating fake apis using fakerjs and redux to test my note taking app locally. I see fakerjs has some interesting suggested domain names.
 
@@ -223,7 +224,7 @@ Link to work:
 
 Link to work:
 
-**Day 28 02 June 2022**
+### Day 28 02 June 2022
 
 **Today's Progress:** Worked a lot with tailwindcss today, Not being a CSS guy, I feel like I have CSS superpowers thanks to wonderful abstractions and of course the wonderful @simonswiss screencasts.
 
