@@ -200,15 +200,22 @@ Link to work: nothing to see
 
 Link to work:
 
- **Day 25 30**
+**Day 25 30 May 2022**
 
 **Today's Progress:** Today i learnt you can avoid the ../../components spiel by adding the baseUrl key with value of " ./src" to tsconfig.json, even in a JS project. Little things, but little things add up. Thanks
 **Thoughts:** keep these stored somewhere, brainy notes maybe...
+
 Link to work:
 
-TODO = YOU HAVE Day 26 on your laptop. 🩹
+**Day 26 31 May 2022**
+
+**Today's Progress:** More Redux
+
+**Thoughts:** Need to get MVP of Brainy notes out.
+
+Link to work:
  
- **Day 27 01 June 2022 **
+ **Day 27 01 June 2022**
 
 **Today's Progress:** Creating fake apis using fakerjs and redux to test my note taking app locally. I see fakerjs has some interesting suggested domain names.
 
@@ -216,3 +223,11 @@ TODO = YOU HAVE Day 26 on your laptop. 🩹
 
 Link to work:
 
+**Day 28 02 June 2022**
+
+**Today's Progress:** Worked a lot with tailwindcss today, Not being a CSS guy, I feel like I have CSS superpowers thanks to wonderful abstractions.
+
+
+**Thoughts:** Try to document, and remember the patterns you follow for repeated styling needs, such as center div's, adding shadow etc. etc.
+
+Link to work: TODO: Later today, when you commit your work copy the commit link here and then tweet about it.
