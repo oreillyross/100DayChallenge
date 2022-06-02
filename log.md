@@ -225,9 +225,8 @@ Link to work:
 
 **Day 28 02 June 2022**
 
-**Today's Progress:** Worked a lot with tailwindcss today, Not being a CSS guy, I feel like I have CSS superpowers thanks to wonderful abstractions.
-
+**Today's Progress:** Worked a lot with tailwindcss today, Not being a CSS guy, I feel like I have CSS superpowers thanks to wonderful abstractions and of course the wonderful @simonswiss screencasts.
 
 **Thoughts:** Try to document, and remember the patterns you follow for repeated styling needs, such as center div's, adding shadow etc. etc.
 
-Link to work: TODO: Later today, when you commit your work copy the commit link here and then tweet about it.
+Link to work: TODO: Later today, when you commit your work copy the commit link here and then tweet about it. Following https://www.youtube.com/watch?v=-jix4KyxLuQ&t=133s 
