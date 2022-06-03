@@ -231,3 +231,13 @@ Link to work:
 **Thoughts:** Try to document, and remember the patterns you follow for repeated styling needs, such as center div's, adding shadow etc. etc.
 
 Link to work: TODO: Later today, when you commit your work copy the commit link here and then tweet about it. Following https://www.youtube.com/watch?v=-jix4KyxLuQ&t=133s 
+
+### Day 29 03 June 2022
+
+**Today's Progress:** Spending the day doing the Redux song and dance, Redux Toolkit makes it feel like one really is dancing across the codebase to get CRUD added all over the place. #Elegant #ReduxToolkit   
+
+**Thoughts:** Add this core routine of createSlice, add reducer, useAppSelector... to your developer notes
+
+Link to work: Brainy notes
+
+
