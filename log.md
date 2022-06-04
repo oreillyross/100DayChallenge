@@ -241,3 +241,12 @@ Link to work: TODO: Later today, when you commit your work copy the commit link 
 Link to work: Brainy notes
 
 
+### Day 30 04 June 2022
+
+**Today's Progress:** I love typescript, but because I don't yet know it well enough it just gets in the way when doing js based tutorial. Feeling slighlty ashamed to be renaming my txs files back to js and globally declare module to escape the Typescript pain.    
+
+**Thoughts:** Learn typescript
+
+Link to work: Brainy notes
+
+
