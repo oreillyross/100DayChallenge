@@ -249,4 +249,11 @@ Link to work: Brainy notes
 
 Link to work: Brainy notes
 
+### Day 31 05 June 2022
+
+**Today's Progress:** To make up for yesterday's typescript failings trying to type redux reducers I am spending hour of code today reading the typescript handbook. 
+**Thoughts:** Learn typescript
+
+Link to work: Brainy notes
+
 
