@@ -256,4 +256,13 @@ Link to work: Brainy notes
 
 Link to work: Brainy notes
 
+### Day 32 06 June 2022
+
+**Today's Progress:** more Typescript. Learning generics today. I learnt another name for them is type parameters and Type Parameters they Should Appear at least twice to be useful, binding input and output of function calls.
+
+**Thoughts:** Learn typescript
+
+Link to work: 
+
+
 
