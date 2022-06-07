@@ -264,5 +264,13 @@ Link to work: Brainy notes
 
 Link to work: 
 
+### Day 33 07 June 2022
+
+**Today's Progress:** Redux Thunks, trickier then I thought. Need to get the patterns down pat for the redux sing and dance. 
+
+**Thoughts:** Learn async
+
+Link to work: 
+
 
 
