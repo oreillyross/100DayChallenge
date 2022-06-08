@@ -272,5 +272,11 @@ Link to work:
 
 Link to work: 
 
+### Day 34 08 June 2022
 
+**Today's Progress:** More of the same, Async Redux. The convention over configuration in @ReduxjsToolkit is great, albeit slighlty trickier to get under the hood of whats going on for learning purposes.  
+
+**Thoughts:** Learn async
+
+Link to work: 
 
