@@ -280,3 +280,11 @@ Link to work:
 
 Link to work: 
 
+### Day 35 09 June 2022
+
+**Today's Progress:** been using git for a while but this video really hits home to correct use of git best practices. https://youtu.be/f-Br8cud2eI  
+
+**Thoughts:** Learn atomic commits
+
+Link to work: 
+
