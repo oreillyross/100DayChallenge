@@ -288,3 +288,12 @@ Link to work:
 
 Link to work: 
 
+### Day 36 10 June 2022
+
+**Today's Progress:** Typescript day. Long way to go grokking typescript after skimming the typescript handbook
+
+**Thoughts:** focus on the details
+
+Link to work: 
+
+
