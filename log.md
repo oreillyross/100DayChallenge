@@ -296,4 +296,12 @@ Link to work:
 
 Link to work: 
 
+### Day 37 11 June 2022
+
+**Today's Progress:** More Redux fundamentals, learning all the building blocks that make up the redux pattern.
+
+**Thoughts:** focus on the details
+
+Link to work: 
+
 
