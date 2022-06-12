@@ -304,4 +304,12 @@ Link to work:
 
 Link to work: 
 
+### Day 38 12 June 2022
+
+**Today's Progress:** So today I went down the Redux rabbit hole, who would of thought so much could be packed into one topic, convention over configuration, immutability, higher order functions, data normalization, cache invalidation, and the list goes on. The excellent @reduxjs docs make it a pleasure to learn though.
+
+**Thoughts:** focus on the details
+
+Link to work: 
+
 
