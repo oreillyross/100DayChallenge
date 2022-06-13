@@ -312,4 +312,11 @@ Link to work:
 
 Link to work: 
 
+### Day 39 13 June 2022
+
+**Today's Progress:** Following the wonderful @tailwindcss screencasts again, refactoring the front page of my note taking app to be responsive. #CSSSuperPowers with #tailwindcss
+
+**Thoughts:** Keep exploring the power of Tailwind to get quicker with styling
+
+Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
 
