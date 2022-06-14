@@ -320,3 +320,12 @@ Link to work:
 
 Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
 
+### Day 40 14 June 2022
+
+**Today's Progress:** Another day with #tailwindcss, The concept of leverage really applies here, as learning the basics really goes far with scaling up your app. 💙 ing @tailwindcss
+
+**Thoughts:** Keep exploring the power of Tailwind to get quicker with styling
+
+Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
+
+
