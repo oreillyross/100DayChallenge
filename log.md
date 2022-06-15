@@ -328,4 +328,11 @@ Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
 
 Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
 
+### Day 41 15 June 2022
+
+**Today's Progress:** @tailwindcss morning, noon and night. I love the sensible defaults when it comes to responsive Design. min-width only as presets
+
+**Thoughts:** Keep exploring the power of Tailwind to get quicker with styling
+
+Link to work: https://www.youtube.com/watc
 
