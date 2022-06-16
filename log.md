@@ -336,3 +336,9 @@ Link to work: https://www.youtube.com/watch?v=elgqxmdVms8
 
 Link to work: https://www.youtube.com/watc
 
+### Day 42 16 June 2022
+
+**Today's Progress:** If you have the screen real estate, I have two screens and can fit three browsers of different screen sizes to see what the @tailwindcss responsive presets do, so nice and practical. 
+**Thoughts:** Keep exploring the power of Tailwind to get quicker with styling
+
+Link to work: https://www.youtube.com/watc
