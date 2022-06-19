@@ -342,3 +342,11 @@ Link to work: https://www.youtube.com/watc
 **Thoughts:** Keep exploring the power of Tailwind to get quicker with styling
 
 Link to work: https://www.youtube.com/watc
+
+### Day 43 19 June 2022
+
+**Today's Progress:** With greatpower comes great responsibility. Tailwind presets are great, but once you start fiddling around with arbitrary values and tailwind.config.js modifications things can get hairy quickly. #tailwindcss #100daysofCode
+
+**Thoughts:** Learn all the utility classes well, try to avoid having to modify these at most costs
+
+Link to work: 
