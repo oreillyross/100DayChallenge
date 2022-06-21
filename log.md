@@ -350,3 +350,13 @@ Link to work: https://www.youtube.com/watc
 **Thoughts:** Learn all the utility classes well, try to avoid having to modify these at most costs
 
 Link to work: 
+
+### Day 44 21 June 2022
+
+**Today's Progress:** Translated Hamburger Menu to using #tailwindcss following @WarrenDaviesDev Hamburger tutorial https://alvarotrigo.com/blog/hamburger-menu-css-responsive/ #100daysofCode its beautiful :fire: :zap: :art:
+
+**Thoughts:** Psuedo classes are powerful
+
+Link to work: 
+
+
