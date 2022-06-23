@@ -359,4 +359,12 @@ Link to work:
 
 Link to work: 
 
+### Day 45 23 June 2022
+
+**Today's Progress:** learning standard patterns to quickly style content makes styling in #tailwindcss so much fun, like the "container mx-auto" or "flex items-center justify items" to get a div centered, I learnt today "flow-root float-right" to position a div to the right of its container. #100daysofcode
+
+**Thoughts:** Find somewhere to store thes snippets and hacks to refer to later
+
+Link to work: 
+
 
