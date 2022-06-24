@@ -367,4 +367,11 @@ Link to work:
 
 Link to work: 
 
+### Day 46 24 June 2022
+
+**Today's Progress:** Coming back to trying to grok Redux, and seeing if the Feynman teqhniques helps. #100daysofcode https://fs.blog/feynman-technique/, explain it to me like I am 12.
+
+**Thoughts:** Keep going through basic tutorials to help with the basic ideas and concepts to click.
+
+Link to work: 
 
