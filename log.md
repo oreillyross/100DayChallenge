@@ -375,3 +375,11 @@ Link to work:
 
 Link to work: 
 
+### Day 47 26 June 2022
+
+**Today's Progress:** Redid the simple Counter example app in ReduxJS tutorial, and still learnt something new, getting used to Typescript running alongside and not getting in the way anymore. #100daysofcode 
+
+**Thoughts:** Keep going through basic tutorials to help with the basic ideas and concepts to click.
+
+Link to work: 
+
