@@ -383,3 +383,11 @@ Link to work:
 
 Link to work: 
 
+### Day 48 28 June 2022
+
+**Today's Progress:** More fun with algorithms, I think having a mental model of the general structure of problems, along with deliberate practice should get you most of the way to coding challenges and interviews. Today find bottom most right value in python . #100daysofcode 
+
+**Thoughts:** Keep going through basic tutorials to help with the basic ideas and concepts to click.
+
+Link to work: 
+
