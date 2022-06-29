@@ -391,3 +391,12 @@ Link to work:
 
 Link to work: 
 
+
+### Day 49 29 June 2022
+
+**Today's Progress:** I love the #reduxjs/toolkit balance between sensible abstractions in createSlice().reducers auto creating action creators and ability to prepare / add your own values   #100daysofcode 
+
+**Thoughts:** Recognise what the library is doing versus core javascript / or library defaults
+
+Link to work: 
+
