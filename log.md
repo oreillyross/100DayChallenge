@@ -400,3 +400,11 @@ Link to work:
 
 Link to work: 
 
+### Day 50 01 July 2022
+
+**Today's Progress:** Learning more about async javascript today, following @joyShaheb #freecodecamp article very nicely put together. https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/  #100daysofcode 
+
+**Thoughts:** Recognise what the library is doing versus core javascript / or library defaults
+
+Link to work: 
+
