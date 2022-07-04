@@ -408,3 +408,11 @@ Link to work:
 
 Link to work: 
 
+### Day 51 04 July 2022
+
+**Today's Progress:** Thinking in Thunks. Realised there is an odd amount of complexity when combining thunks with async\await, try\catch behaviour and handling local/network errors.  #redux docs got me covered though #100daysofcode 
+
+**Thoughts:** Recognise what the library is doing versus core javascript / or library defaults
+
+Link to work: 
+
