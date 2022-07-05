@@ -416,3 +416,12 @@ Link to work:
 
 Link to work: 
 
+### Day 52 05 July 2022
+
+**Today's Progress:** Back to basics, learning some great insights into javascript from Greg Sidelnikov's Javascript Grammar book. #elegant #javascript #100daysofcode 
+
+**Thoughts:** https://tinyurl.com/266wkyub
+
+Link to work: 
+
+
