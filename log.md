@@ -424,4 +424,11 @@ Link to work:
 
 Link to work: 
 
+### Day 53 07 July 2022
+
+**Today's Progress:** Deep dive into React now over next few weeks with #epicreactDev course building a bookshelf site. #100daysofcode 
+
+**Thoughts:** 
+
+Link to work: 
 
