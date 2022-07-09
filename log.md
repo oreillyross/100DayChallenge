@@ -432,3 +432,10 @@ Link to work:
 
 Link to work: 
 
+### Day 54 09 July 2022
+
+**Today's Progress:** Add authentication to bookshelf app, #epicreactdev #100daysofcode
+**Thoughts:** 
+
+Link to work
+
