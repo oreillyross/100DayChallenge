@@ -439,3 +439,10 @@ Link to work:
 
 Link to work
 
+### Day 55 10 July 2022
+
+**Today's Progress:** @kentcdodds teaches it so nicely. I always felt auth was harder than it should be, not anymore, its using an auth provider, setting local state and checking local state for auth rights, thats it, <AuthenticatedApp/> || <UnauthenticatedApp/> #epicreactdev #100daysofcode
+**Thoughts:** 
+
+Link to work
+
