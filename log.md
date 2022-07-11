@@ -446,3 +446,10 @@ Link to work
 
 Link to work
 
+### Day 56 11 July 2022
+
+**Today's Progress:** Learning #statemanagment #react-query #epicreactdev learnt, a nice pattern for dealing with possible null values, using the null safe navigation (?) or Elvis operator, love the name, and (??) nullish-coalescing to provide default if null #100daysofcode
+**Thoughts:** 
+
+Link to work
+
