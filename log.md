@@ -453,3 +453,9 @@ Link to work
 
 Link to work
 
+### Day 57 14 July 2022
+
+**Today's Progress:** Breaking up app into <UnAuthenticated/> and <Authenticated/> pattern #100daysofcode #notetakingapp
+**Thoughts:** develop these core patterns that can be used again and again.  
+
+Link to work
