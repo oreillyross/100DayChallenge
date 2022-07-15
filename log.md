@@ -459,3 +459,11 @@ Link to work
 **Thoughts:** develop these core patterns that can be used again and again.  
 
 Link to work
+
+### Day 58 15 July 2022
+
+**Today's Progress:**  React stores your state outside of the component, as if on a shelf. Learning why state updater functions matter. #100daysofcode #react https://beta-reactjs-org-git-tef-fbopensource.vercel.app/learn/state-as-a-snapshot
+
+**Thoughts:** Keep developing the mental model of how React works under the hood
+
+Link to work
