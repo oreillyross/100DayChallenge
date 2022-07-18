@@ -467,3 +467,11 @@ Link to work
 **Thoughts:** Keep developing the mental model of how React works under the hood
 
 Link to work
+
+### Day 59 18 July 2022
+
+**Today's Progress:**  Added CRUD to my note taking app, falling in love with React Query V3 😍 #100DaysOfCode 
+
+**Thoughts:** Keep developing the mental model of how React works under the hood
+
+Link to work
