@@ -475,3 +475,11 @@ Link to work
 **Thoughts:** Keep developing the mental model of how React works under the hood
 
 Link to work
+
+### Day 60 19 July 2022
+
+**Today's Progress:**  Created a simple non-intrusive status animation to use with react query useIsFetching hook for background refetch #100DaysOfCode https://codepen.io/oreillyross/pen/YzaZKaj
+
+**Thoughts:** refactor this into a reusable component
+
+Link to work
