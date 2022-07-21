@@ -483,3 +483,11 @@ Link to work
 **Thoughts:** refactor this into a reusable component
 
 Link to work
+
+### Day 61 21 July 2022
+
+**Today's Progress:** Coding challenges today to keep me sharp, worked through classic coin change problem, having done this dynamic programming problem in the past it's great to use the active recall method of learning, to get it to really stick, I struggle for 15 minutes, then see walkthrough solution, then code it myself again to revise. #100DaysOfCode 
+
+**Thoughts:** refactor this into a reusable component
+
+Link to work
